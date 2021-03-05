@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.5",
   "uuid": "aa09fd7b-884e-4a55-861e-f8494cbb1c86",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 640,
+  "height": 960,
   "platformSettings": {},
   "subMetas": {
     "Background_Login_Scene_No_Word": {

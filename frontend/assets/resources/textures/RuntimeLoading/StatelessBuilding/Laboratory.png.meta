@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.5",
   "uuid": "c23e9890-84aa-44f8-a9e6-57a210d98ee0",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 1650,
+  "height": 550,
   "platformSettings": {},
   "subMetas": {
     "Laboratory": {

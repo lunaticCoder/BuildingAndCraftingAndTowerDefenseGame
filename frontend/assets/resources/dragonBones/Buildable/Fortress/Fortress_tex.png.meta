@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.5",
   "uuid": "4852b38e-a7a7-4710-a32b-b498dd6a40c6",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 1025,
+  "height": 1494,
   "platformSettings": {},
   "subMetas": {
     "Fortress_tex": {

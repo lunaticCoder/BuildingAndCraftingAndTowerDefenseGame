@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.5",
   "uuid": "b7b5fc1e-e01d-4a20-b538-8af9e942b337",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 749,
+  "height": 843,
   "platformSettings": {},
   "subMetas": {
     "FireTower_tex": {

@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.5",
   "uuid": "65ef3914-3453-40eb-a39f-7ab6ff75af7e",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 1650,
+  "height": 550,
   "platformSettings": {},
   "subMetas": {
     "Restaurant": {

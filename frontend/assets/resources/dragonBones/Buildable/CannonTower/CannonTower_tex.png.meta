@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.5",
   "uuid": "fe04a001-fa5c-4bc5-9850-24aa177ef7b0",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 914,
+  "height": 984,
   "platformSettings": {},
   "subMetas": {
     "CannonTower_tex": {

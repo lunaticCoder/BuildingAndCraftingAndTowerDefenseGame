@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.3",
+  "ver": "2.3.5",
   "uuid": "791d176d-1ef2-4e69-aa46-671b8b68b410",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -7,6 +7,8 @@
   "premultiplyAlpha": false,
   "genMipmaps": false,
   "packable": true,
+  "width": 1280,
+  "height": 512,
   "platformSettings": {},
   "subMetas": {
     "Tile_W256_H128_S02": {

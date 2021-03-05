@@ -3,10 +3,11 @@ package common
 import (
 	"encoding/json"
 	"fmt"
-	"go.uber.org/zap"
 	"os"
 	"path/filepath"
 	"strings"
+
+	"go.uber.org/zap"
 )
 
 var Conf *config
@@ -115,9 +116,9 @@ func MustParseConfig() {
 
 	var preConfSQLitePath string
 	if SERVER_ENV_TEST == Conf.General.ServerEnv || SERVER_ENV_ANONYMOUS_TEST == Conf.General.ServerEnv {
-		preConfSQLitePath = filepath.Join(confDir, "preconfigured.test.sqlite")
+		preConfSQLitePath = filepath.Join(confDir, "preconfigured.test.zh.sqlite")
 	} else {
-		preConfSQLitePath = filepath.Join(confDir, "preconfigured.sqlite")
+		preConfSQLitePath = filepath.Join(confDir, "preconfigured.zh.sqlite")
 	}
 	if !isNotExist(preConfSQLitePath) {
 		Conf.General.PreConfSQLitePath = preConfSQLitePath

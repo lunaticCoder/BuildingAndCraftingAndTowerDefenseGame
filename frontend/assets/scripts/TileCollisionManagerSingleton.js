@@ -376,7 +376,7 @@ TileCollisionManager.prototype.extractBoundaryObjects = function(withTiledMapNod
     tsxMap[tsxFileNames[tsxFilenameIdx]] = tsxFiles[tsxFilenameIdx].text;
   }
 
-  let mapInfo = new cc.TMXMapInfo(file.tmxXmlStr, tsxMap, textures);
+  let mapInfo = new cc.TMXMapInfo(file.tmxXmlStr, tsxMap, textures,{});
   let tileSets = mapInfo.getTilesets();
   /*
    * Copies from https://github.com/cocos-creator/engine/blob/master/cocos2d/tilemap/CCTiledMap.js as a hack to parse advanced <tile> info
